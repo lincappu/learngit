@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git add origin 
 git branch dev and  checkout dev
 Creating a new branch is quick AND simple.
+Git statsh
