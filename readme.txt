@@ -7,3 +7,4 @@ git branch dev and  checkout dev
 Creating a new branch is quick AND simple.
 Git statsh
 Git status -s 
+MM    MM
