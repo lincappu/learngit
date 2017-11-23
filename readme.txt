@@ -11,4 +11,8 @@ MM    MM
 git diff
 git diff --staged
 git commit  amend
+<<<<<<< HEAD
 git branch test
+=======
+git log --oneline --decorate
+>>>>>>> test
