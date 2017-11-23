@@ -11,3 +11,4 @@ MM    MM
 git diff
 git diff --staged
 git commit  amend
+git log --oneline --decorate
