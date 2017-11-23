@@ -8,3 +8,6 @@ Creating a new branch is quick AND simple.
 Git statsh
 Git status -s 
 MM    MM
+git diff
+git diff --staged
+git commit --amend
