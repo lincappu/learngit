@@ -14,3 +14,4 @@ git commit  amend
 git branch test
 git log --oneline --decorate
 git add file by sourcetree  local file
+git add fetch and merge
